@@ -20,5 +20,3 @@ function isWeekend(day: Days):boolean {
 
   return false;
 }
-
-console.log(isWeekend(Days.Monday))
